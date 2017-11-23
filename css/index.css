@@ -1,0 +1,44 @@
+.head-one-text {
+  text-align: center;
+}
+
+.input {
+  position: relative;
+  text-align: center;
+}
+
+.choose-colour {
+  padding-top: 10px;
+  position: relative;
+  text-align: center;
+}
+
+.bold-colour {
+  font-weight: bold;
+}
+
+.head-four-text{
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  top: 30px;
+  left: 30px;
+  font-size: 0;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  height:960px;
+  width:960px;
+  padding: 0;
+  border: none;
+}
+
+.grid {
+  margin:0;
+  padding:0;
+  border:none;
+  outline:1px solid #000;
+  display:inline-block;
+
+}
